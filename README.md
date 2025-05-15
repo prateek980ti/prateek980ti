@@ -4,7 +4,7 @@ Hi 👋 My name is Prateek Dawalia
 Fullstack Developer
 -------------------
 
-* 🌍  I'm based in Noida
+* 🌍  I'm based in India
 * ✉️  You can contact me at [pdawalia@gmail.com](mailto:pdawalia@gmail.com)
 * 🧠  I'm learning DSA
 * 🤝  I'm open to collaborating on Web dev projects
