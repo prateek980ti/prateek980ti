@@ -6,8 +6,8 @@ Fullstack Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pdawalia@gmail.com](mailto:pdawalia@gmail.com)
-* 🧠  I'm learning DSA
-* 🤝  I'm open to collaborating on Web dev projects
+* 🧠  React.js | Node.js | Express.js | MongoDB | JWT | PDFMake | Next.js
+* 🤝  I'm open to collaborating on full stack development projects
 * ⚡  I like to Gym
 
 ### Skills
