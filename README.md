@@ -8,6 +8,7 @@ Fullstack Developer
 * ✉️  You can contact me at [pdawalia@gmail.com](mailto:pdawalia@gmail.com)  
 * 🧠  React.js | Node.js | Express.js | MongoDB | JWT | Next.js  
 * 🤝  I'm open to collaborating on full stack development projects  
+* 🌐  Portfolio: <a href="https://prateek980-profile.vercel.app/" target="_blank">prateek980-profile.vercel.app</a>
 
 ### Skills
 
@@ -21,7 +22,6 @@ Fullstack Developer
 <a href="https://discord.com/users/homiealone" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.github.com/prateek980ti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
 <a href="https://www.linkedin.com/in/prateek-dawalia-980ti/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-<a href="https://prateek980-profile.vercel.app/" target="_blank" rel="noreferrer"> <picture> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/website.svg" width="32" height="32" alt="Portfolio Website" /> </picture> </a>
 </p>
 
 ### Badges
